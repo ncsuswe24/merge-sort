@@ -1,0 +1,4 @@
+{
+    "include": ["hw2/**/*.py"],
+    "exclude": ["post_traces"]
+}
