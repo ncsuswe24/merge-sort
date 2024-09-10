@@ -1,3 +1,4 @@
+"""Module allows for randomizing the array"""
 from . import rand
 
 
