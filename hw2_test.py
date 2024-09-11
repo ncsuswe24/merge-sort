@@ -1,5 +1,6 @@
 from hw2.hw2_debugging import merge_sort
 
+
 def test_empty():
     return merge_sort([]) == []
 
