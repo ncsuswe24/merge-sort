@@ -43,7 +43,6 @@ jobs:
     - name: Check types with pyright
       run: |
         pyright
-    - name: Test with
     - name: Test with pytest
       run: |
         pip install pytest pytest-cov
